@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zhenhao</h1>
 <h3 align="center">I am currently actively seeking a job opportunity in Germany 🇩🇪. I have a strong background in Full-Stack Development, with expertise in React, Node.js, JavaScript, and C# .net Core. Feel free to contact me for any collaboration or open job positions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zhenhaopeng&label=Profile%20views&color=0e75b6&style=flat" alt="zhenhaopeng" /> </p>
-
 - 🌱 I’m currently learning **react**
 
-- 👨‍💻 All of my projects are available at [portfolie.](portfolie.)
-
-- 📫 How to reach me **pengzhenhao119@gmail.com**
+- 👨‍💻 All of my projects are available at [https://zhenhaopeng.github.io/portfolio/](https://zhenhaopeng.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zhenhao-peng-2433371b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhenhaopeng" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zhenhao peng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhenhao peng" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
