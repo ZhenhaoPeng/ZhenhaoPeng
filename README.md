@@ -4,17 +4,6 @@
   A passionate Full-Stack Developer 🚀 | Exploring React, TypeScript, and .NET Core.
 </p>
 
----
-
-### 🎓 Education
-- **MS Student** at [University Name] (*Expected: 2025*), Major: **Computer Science**
-- **BSc** at [University Name], GPA: **3.8/4**, Ranked: **Top 10%**
-
-### 💻 Work Experience
-- **Frontend Developer Intern** at [Company Name], 2023
-- **Backend Developer Intern** at [Company Name], 2022
-
----
 
 ### 🔧 Skills
 <div align="center">
@@ -30,8 +19,8 @@
 ---
 
 ### 📫 How to Reach Me
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Zhenhao Peng](https://linkedin.com/in/your-profile)
+- **Email**: [pengzhenhao119@gmail.com](mailto:pengzhenhao119@mail.com)
+- **LinkedIn**: [Zhenhao Peng]((https://www.linkedin.com/in/zhenhao-peng-2433371b3/))
 
 ---
 
@@ -50,8 +39,3 @@
 - 💡 Open to exciting collaborations and opportunities.
 
 ---
-
-### 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zhenhaopeng&theme=radical&no-frame=true&column=3" alt="Achievements" />
-</div>
