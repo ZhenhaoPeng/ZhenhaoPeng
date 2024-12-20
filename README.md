@@ -3,16 +3,14 @@
 I’m a passionate **Full-Stack Developer** 🚀, currently working on building scalable and user-friendly applications.  
 My stack includes **React**, **TypeScript**, **.NET Core**, and I’m continuously learning and improving.
 
-
-**About Me**  
+### 📝 **About Me**  
 - 🔭 **Currently working on:** Finanzielle Portfolio-App  
   *(Frontend: React (TypeScript, Redux/Context, React Query), Backend: .NET Core (C#, Web API))*  
 - 🌱 **Currently learning:** React, TypeScript, C#  
 - 📫 **Contact me:** [pengzhenhao119@gmail.com](mailto:pengzhenhao119@gmail.com)  
 - 🌐 **Portfolio:** [zhenhaopeng.github.io/portfolio](https://zhenhaopeng.github.io/portfolio/)  
 
-
-**My Tech Stack**  
+### 💻 **My Tech Stack**  
 <div>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -24,15 +22,13 @@ My stack includes **React**, **TypeScript**, **.NET Core**, and I’m continuous
   <img src="https://img.shields.io/badge/MS%20SQL-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </div>
 
-
-**GitHub Stats**  
+### 📊 **GitHub Stats**  
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=zhenhaopeng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenhaopeng&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-
-**Quick Links**  
+### 🔗 **Quick Links**  
 - 💼 [LinkedIn](https://linkedin.com/in/zhenhao-peng-2433371b3/)  
 - 💻 [Portfolio](https://zhenhaopeng.github.io/portfolio/)  
 - 📧 [Email Me](mailto:pengzhenhao119@gmail.com)  
