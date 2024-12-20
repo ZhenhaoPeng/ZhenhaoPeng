@@ -3,7 +3,6 @@
 I’m a passionate **Full-Stack Developer** 🚀, currently working on building scalable and user-friendly applications.  
 My stack includes **React**, **TypeScript**, **.NET Core**, and I’m continuously learning and improving.
 
----
 
 **About Me**  
 - 🔭 **Currently working on:** Finanzielle Portfolio-App  
@@ -12,7 +11,6 @@ My stack includes **React**, **TypeScript**, **.NET Core**, and I’m continuous
 - 📫 **Contact me:** [pengzhenhao119@gmail.com](mailto:pengzhenhao119@gmail.com)  
 - 🌐 **Portfolio:** [zhenhaopeng.github.io/portfolio](https://zhenhaopeng.github.io/portfolio/)  
 
----
 
 **My Tech Stack**  
 <div>
@@ -26,7 +24,6 @@ My stack includes **React**, **TypeScript**, **.NET Core**, and I’m continuous
   <img src="https://img.shields.io/badge/MS%20SQL-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </div>
 
----
 
 **GitHub Stats**  
 <div>
@@ -34,9 +31,8 @@ My stack includes **React**, **TypeScript**, **.NET Core**, and I’m continuous
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenhaopeng&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
----
 
 **Quick Links**  
-- 💼 [LinkedIn](https://linkedin.com/in/zhenhaopeng)  
+- 💼 [LinkedIn](https://linkedin.com/in/zhenhao-peng-2433371b3/)  
 - 💻 [Portfolio](https://zhenhaopeng.github.io/portfolio/)  
 - 📧 [Email Me](mailto:pengzhenhao119@gmail.com)  
